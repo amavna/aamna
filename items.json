@@ -1,0 +1,44 @@
+[
+    {
+        
+        "name" : "Velvet Sofa",
+        "description": "Vintage Velvet Fabric Scallop Back Sofa 2-Seater",
+        "price" : 2200 
+    },
+    {
+        "name" : "Table",
+        "description": "Coffee table",
+        "price" : 200 
+    },
+    {
+        "name" : "sofa cover",
+        "description": "Protect your sofa from spills and stains with the help of this textured super stretch sofa cover. ",
+        "price" : 200 
+    },
+    {
+        "name" : "Vase",
+        "description": "2 Vases ",
+        "price" : 200 
+    },
+    {
+        "name" : "Mirror",
+        "description": " 196cm Wall mirrir ",
+        "price" : 800 
+    },
+    {
+        "name" : "Gameboy",
+        "description": " Console Gameboy Color Black",
+        "price" : 50 
+
+    },
+    {
+        "name" : "Grey Sofa",
+        "description": " Sofa with yellow blanket ",
+        "price" : 300 
+    },
+    {
+        "name" : "Lamp",
+        "description": " Multi Light Pendant  ",
+        "price" : 150 
+    }
+]
